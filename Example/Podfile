@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'QBSubscriberField_Example' do
+  pod 'QBSubscriberField', :path => '../'
+
+  target 'QBSubscriberField_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
