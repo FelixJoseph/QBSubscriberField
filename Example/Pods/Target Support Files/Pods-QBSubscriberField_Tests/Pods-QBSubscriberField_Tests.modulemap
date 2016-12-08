@@ -1,0 +1,6 @@
+framework module Pods_QBSubscriberField_Tests {
+  umbrella header "Pods-QBSubscriberField_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

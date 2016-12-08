@@ -1,0 +1,16 @@
+PODS:
+  - QBSubscriberField (0.1.0)
+
+DEPENDENCIES:
+  - QBSubscriberField (from `../`)
+
+EXTERNAL SOURCES:
+  QBSubscriberField:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  QBSubscriberField: ae5567792e8b9380ec074142c3873d47d75bfd17
+
+PODFILE CHECKSUM: dfd5ee10227885f6db97dc41c25b9da77ecd6632
+
+COCOAPODS: 1.1.1

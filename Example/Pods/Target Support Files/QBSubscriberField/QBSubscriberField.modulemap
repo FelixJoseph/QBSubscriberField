@@ -1,0 +1,6 @@
+framework module QBSubscriberField {
+  umbrella header "QBSubscriberField-umbrella.h"
+
+  export *
+  module * { export * }
+}
