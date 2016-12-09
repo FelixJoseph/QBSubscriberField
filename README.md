@@ -4,22 +4,23 @@ QBSubscriberField
 
 Version License Platform
 
-Overview
+##Overview
 
 QBSubscriberField is a subclass of UITextField, written in Swift, that enables the UITextField to accept the E-mail of a subscriber along with submit button.
 
 
 
-Requirements
-
-ARC
+## Requirements
 iOS8
-Installation with CocoaPods
+
+## Installation with CocoaPods
 
 QBSubscriberField is available through CocoaPods. To install it, simply add the following line to your Podfile:
 
+```ruby
 pod "QBSubscriberField"
-Usage
+```
+##Usage
 
 import QBSubscriberField
 
@@ -32,8 +33,8 @@ An example project is included with this repo. To run the example project, clone
 
 Author
 
-Andy Obusek
+Felix Joseph, felix@qburst.com
 
-License
+##License
 
 QBSubscriberField is available under the MIT license. See the LICENSE file for more info.

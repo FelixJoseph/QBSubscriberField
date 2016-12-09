@@ -51,7 +51,7 @@ public class QBSubscriberField: UITextField, UITextFieldDelegate {
     }
     
     
-    open override func prepareForInterfaceBuilder() {
+    override public func prepareForInterfaceBuilder() {
         
         super.prepareForInterfaceBuilder()
         self.initialiseSubscribeField()
