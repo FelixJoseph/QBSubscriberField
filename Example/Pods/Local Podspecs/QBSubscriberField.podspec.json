@@ -1,9 +1,9 @@
 {
   "name": "QBSubscriberField",
   "version": "0.1.0",
-  "summary": "A short description of QBSubscriberField.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/QBSubscriberField",
+  "summary": "A Subscribe field which is a subclass of UITextField.",
+  "description": "This CocoaPod provides the ability to use a UITextField that may be used as a subscribe field with textfield for entering the email address and a button along with it.",
+  "homepage": "https://github.com/FelixJoseph/QBSubscriberField",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "Felix": "felix@qburst.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/QBSubscriberField.git",
+    "git": "https://github.com/FelixJoseph/QBSubscriberField.git",
     "tag": "0.1.0"
   },
   "platforms": {

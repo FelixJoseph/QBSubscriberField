@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		020DBF705AF52A039332E4D01A3FCA36 /* QBSubscriberField.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB86445AB4DD8D937B581107CD73A92D /* QBSubscriberField.swift */; };
 		02C66E3E115EE950931E8FF9409A2AFF /* Pods-QBSubscriberField_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 93833A5A4EEB7EE6EA2366B4E8739EFD /* Pods-QBSubscriberField_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0519AB856C38D039E25D57CF9599DF94 /* Pods-QBSubscriberField_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 0CCFDC703954733F89D3CC994ECF44C2 /* Pods-QBSubscriberField_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		17B43ADF14CBD0545C1C2E6A86846FB1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */; };
-		46E9C68D9319490CD857DAE3CD4FF90F /* QBSubscriberField-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = A990E8558778EDC2704252C5D55EE352 /* QBSubscriberField-dummy.m */; };
-		75286A50A45EDAB733E0F957E03F1391 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDE093EE02CB4C8B2AD7E2467B8CE688 /* ReplaceMe.swift */; };
+		4C1E729851F19298F7AB893B4528C02D /* QBSubscriberField-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = A990E8558778EDC2704252C5D55EE352 /* QBSubscriberField-dummy.m */; };
 		757A36EE92A210C19A0134F7F1E33747 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */; };
 		77BEBD8F081A6452BF17159DB707C98E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */; };
 		AF9532DB3192D10BA5DFB72372B7B3E0 /* Pods-QBSubscriberField_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = E6FCDF9C5320708B2DFECB3476AE6A9D /* Pods-QBSubscriberField_Tests-dummy.m */; };
@@ -30,14 +30,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		00E36CF9658D7A45DB7626D3E600B7B6 /* Pods-QBSubscriberField_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-QBSubscriberField_Tests.modulemap"; sourceTree = "<group>"; };
+		00E36CF9658D7A45DB7626D3E600B7B6 /* Pods-QBSubscriberField_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-QBSubscriberField_Tests.modulemap"; sourceTree = "<group>"; };
 		086482DD4812E61EEFEF9C005DA91A87 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0A7C77EFFEF5C768C26706A6DBAC4D8D /* Pods-QBSubscriberField_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-QBSubscriberField_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		0BEC72881FF9788E6866586BF8BD881B /* Pods-QBSubscriberField_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-QBSubscriberField_Example-dummy.m"; sourceTree = "<group>"; };
 		0C055F7D72AEAA14D88776ED5D86D3CA /* Pods-QBSubscriberField_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-QBSubscriberField_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		0CCFDC703954733F89D3CC994ECF44C2 /* Pods-QBSubscriberField_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-QBSubscriberField_Tests-umbrella.h"; sourceTree = "<group>"; };
 		1F2C8FAC332CF85C47A90F7B5F283FD7 /* Pods-QBSubscriberField_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-QBSubscriberField_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		257D94DEC6015F548A595E394F149FFA /* Pods-QBSubscriberField_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-QBSubscriberField_Example.modulemap"; sourceTree = "<group>"; };
+		257D94DEC6015F548A595E394F149FFA /* Pods-QBSubscriberField_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-QBSubscriberField_Example.modulemap"; sourceTree = "<group>"; };
 		594244DA3C0E14FD6D6CB6D7FFE66D31 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5AE04DB4D5DDD4E90AD22D17A8EADE9C /* Pods-QBSubscriberField_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-QBSubscriberField_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		5D83A047DC75850890E5CA6FD87B3CAA /* Pods-QBSubscriberField_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-QBSubscriberField_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
@@ -46,19 +46,19 @@
 		6A2136D1885C641A8AB8E419EB33F844 /* Pods-QBSubscriberField_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-QBSubscriberField_Example-resources.sh"; sourceTree = "<group>"; };
 		78454B2466C591F200DB03199F707041 /* QBSubscriberField.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = QBSubscriberField.xcconfig; sourceTree = "<group>"; };
 		78EE9B257726711C7A1F89C729B16A6E /* Pods-QBSubscriberField_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-QBSubscriberField_Tests-frameworks.sh"; sourceTree = "<group>"; };
-		8BE49137466E5E71E09E327B92C7E7A2 /* Pods_QBSubscriberField_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_QBSubscriberField_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		8BE49137466E5E71E09E327B92C7E7A2 /* Pods_QBSubscriberField_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_QBSubscriberField_Tests.framework; path = "Pods-QBSubscriberField_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		93833A5A4EEB7EE6EA2366B4E8739EFD /* Pods-QBSubscriberField_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-QBSubscriberField_Example-umbrella.h"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A990E8558778EDC2704252C5D55EE352 /* QBSubscriberField-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "QBSubscriberField-dummy.m"; sourceTree = "<group>"; };
 		AA6C29856ADF154488FBEACE4D680074 /* Pods-QBSubscriberField_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-QBSubscriberField_Example-frameworks.sh"; sourceTree = "<group>"; };
 		B5F10858AF1129B6465E651BD988CE73 /* Pods-QBSubscriberField_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-QBSubscriberField_Example.release.xcconfig"; sourceTree = "<group>"; };
-		B7FEB84A8BEF3193F17A0F645341325D /* QBSubscriberField.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = QBSubscriberField.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B7FEB84A8BEF3193F17A0F645341325D /* QBSubscriberField.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = QBSubscriberField.framework; path = QBSubscriberField.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		D5C0176C9A88FECE8AEAADD846BC4448 /* Pods-QBSubscriberField_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-QBSubscriberField_Tests-resources.sh"; sourceTree = "<group>"; };
-		DC0BD878340DB8E26A17D8372DEDF0ED /* QBSubscriberField.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = QBSubscriberField.modulemap; sourceTree = "<group>"; };
-		DDE093EE02CB4C8B2AD7E2467B8CE688 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ReplaceMe.swift; sourceTree = "<group>"; };
+		DC0BD878340DB8E26A17D8372DEDF0ED /* QBSubscriberField.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = QBSubscriberField.modulemap; sourceTree = "<group>"; };
 		E6FCDF9C5320708B2DFECB3476AE6A9D /* Pods-QBSubscriberField_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-QBSubscriberField_Tests-dummy.m"; sourceTree = "<group>"; };
-		EB61BC366577946F2E1A4856E001E09A /* Pods_QBSubscriberField_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_QBSubscriberField_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		EB61BC366577946F2E1A4856E001E09A /* Pods_QBSubscriberField_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_QBSubscriberField_Example.framework; path = "Pods-QBSubscriberField_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EB86445AB4DD8D937B581107CD73A92D /* QBSubscriberField.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = QBSubscriberField.swift; sourceTree = "<group>"; };
 		F7B1A557DA4621A6436D052D6294EE7A /* Pods-QBSubscriberField_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-QBSubscriberField_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		F837E88059F8E90C9A464C831B478319 /* QBSubscriberField-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "QBSubscriberField-umbrella.h"; sourceTree = "<group>"; };
 		FC189D22918761190425D2D3D49CE14D /* QBSubscriberField-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "QBSubscriberField-prefix.pch"; sourceTree = "<group>"; };
@@ -170,6 +170,15 @@
 			name = "Development Pods";
 			sourceTree = "<group>";
 		};
+		B5D04B9A0E581DF348755C5777CE6A02 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				EB86445AB4DD8D937B581107CD73A92D /* QBSubscriberField.swift */,
+			);
+			name = Classes;
+			path = Classes;
+			sourceTree = "<group>";
+		};
 		BB416996D56DB68AB31ABA729358BD72 /* Products */ = {
 			isa = PBXGroup;
 			children = (
@@ -206,19 +215,12 @@
 			path = "Target Support Files/Pods-QBSubscriberField_Tests";
 			sourceTree = "<group>";
 		};
-		DADAB58FA588DEAF60C63E8D39CBEFE1 /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-				DDE093EE02CB4C8B2AD7E2467B8CE688 /* ReplaceMe.swift */,
-			);
-			path = Classes;
-			sourceTree = "<group>";
-		};
 		FA5A82DBA5133775337AC200331BAA7A /* QBSubscriberField */ = {
 			isa = PBXGroup;
 			children = (
-				DADAB58FA588DEAF60C63E8D39CBEFE1 /* Classes */,
+				B5D04B9A0E581DF348755C5777CE6A02 /* Classes */,
 			);
+			name = QBSubscriberField;
 			path = QBSubscriberField;
 			sourceTree = "<group>";
 		};
@@ -291,7 +293,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = DAD19553804A46461C608A3045764AB6 /* Build configuration list for PBXNativeTarget "QBSubscriberField" */;
 			buildPhases = (
-				88E06B78FC03803370C66D7F7555E83F /* Sources */,
+				892C6944237F2B058EE4EE3D5FCC7584 /* Sources */,
 				F604A18106A41B37DDECE9CEF153DA86 /* Frameworks */,
 				C07066C0AB5D88A1051B7BE61834BE76 /* Headers */,
 			);
@@ -312,14 +314,6 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0730;
 				LastUpgradeCheck = 0700;
-				TargetAttributes = {
-					653AE38F4F6235B57E3E29F46F1FA8DC = {
-						LastSwiftMigration = 0800;
-					};
-					BAE08D1054BC3AA20FE83B0EF9009CD3 = {
-						LastSwiftMigration = 0800;
-					};
-				};
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -349,12 +343,12 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		88E06B78FC03803370C66D7F7555E83F /* Sources */ = {
+		892C6944237F2B058EE4EE3D5FCC7584 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				46E9C68D9319490CD857DAE3CD4FF90F /* QBSubscriberField-dummy.m in Sources */,
-				75286A50A45EDAB733E0F957E03F1391 /* ReplaceMe.swift in Sources */,
+				4C1E729851F19298F7AB893B4528C02D /* QBSubscriberField-dummy.m in Sources */,
+				020DBF705AF52A039332E4D01A3FCA36 /* QBSubscriberField.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -378,6 +372,39 @@
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
+		0A63666184FCE3F1E70EABDDF41ED24A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 78454B2466C591F200DB03199F707041 /* QBSubscriberField.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/QBSubscriberField/QBSubscriberField-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/QBSubscriberField/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/QBSubscriberField/QBSubscriberField.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = QBSubscriberField;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
 		2400A568B52C8A12FC05621267CB739A /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = F7B1A557DA4621A6436D052D6294EE7A /* Pods-QBSubscriberField_Tests.release.xcconfig */;
@@ -477,7 +504,6 @@
 				PRODUCT_NAME = Pods_QBSubscriberField_Example;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -514,12 +540,43 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
+		};
+		76A5E15C9BEF18DA776A5965D66C5486 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 78454B2466C591F200DB03199F707041 /* QBSubscriberField.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/QBSubscriberField/QBSubscriberField-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/QBSubscriberField/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/QBSubscriberField/QBSubscriberField.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = QBSubscriberField;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
 		};
 		8DED8AD26D381A6ACFF202E5217EC498 /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -560,71 +617,6 @@
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
-		};
-		995E86233700D5379C3759E8C3A4400D /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 78454B2466C591F200DB03199F707041 /* QBSubscriberField.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/QBSubscriberField/QBSubscriberField-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/QBSubscriberField/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/QBSubscriberField/QBSubscriberField.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_NAME = QBSubscriberField;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 3.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		99EEB5E56723F826088151447EB5E6CE /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 78454B2466C591F200DB03199F707041 /* QBSubscriberField.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/QBSubscriberField/QBSubscriberField-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/QBSubscriberField/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/QBSubscriberField/QBSubscriberField.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				PRODUCT_NAME = QBSubscriberField;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 3.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
 		};
 		9E1E4E48AF2EAB23169E611BF694090A /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -703,8 +695,8 @@
 		DAD19553804A46461C608A3045764AB6 /* Build configuration list for PBXNativeTarget "QBSubscriberField" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				99EEB5E56723F826088151447EB5E6CE /* Debug */,
-				995E86233700D5379C3759E8C3A4400D /* Release */,
+				0A63666184FCE3F1E70EABDDF41ED24A /* Debug */,
+				76A5E15C9BEF18DA776A5965D66C5486 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
