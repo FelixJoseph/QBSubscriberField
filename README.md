@@ -1,15 +1,16 @@
 # QBSubscriberField
 
-QBSubscriberField
-
-Version License Platform
+[![CI Status](http://img.shields.io/travis/Felix/QBSubscriberField.svg?style=flat)](https://travis-ci.org/Felix/QBSubscriberField)
+[![Version](https://img.shields.io/cocoapods/v/QBSubscriberField.svg?style=flat)](http://cocoapods.org/pods/QBSubscriberField)
+[![License](https://img.shields.io/cocoapods/l/QBSubscriberField.svg?style=flat)](http://cocoapods.org/pods/QBSubscriberField)
+[![Platform](https://img.shields.io/cocoapods/p/QBSubscriberField.svg?style=flat)](http://cocoapods.org/pods/QBSubscriberField)
 
 ##Overview
 
 QBSubscriberField is a subclass of UITextField, written in Swift, that enables the UITextField to accept the E-mail of a subscriber along with submit button.
 
 <p align="center">
-<img src="http://imgur.com/dDx0kC8.gif" alt="QBSubscriberField" />
+<img src="http://imgur.com/mf4kmZd.gif" alt="QBSubscriberField" />
 </p>
 
 ## Highlights
@@ -52,7 +53,7 @@ $ pod install
 ### Manually:
 
 * Download QBSubscriberField.
-* Drag and drop NotifyMe directory to your project
+* Drag and drop QBSubscriberField directory to your project
 
 ##Usage
 
